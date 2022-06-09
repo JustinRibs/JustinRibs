@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JustinRibs
 - 👀 I’m interested in a job...
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently working toward my Computer Science Degree
 - 💞️ I’m looking to collaborate on Java projects:)
 - 📫 How to reach me jribarich98@gmail.com
 
