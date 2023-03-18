@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JustinRibs
-- 👀 I’m interested in learning toward a job..
-- 🌱 I'm currently in CodeSmith studying Software Engineering!
+- 👀 I’m interested in a job...
+- 🌱 I'm currently a Software Engineer!
 - 📫 How to reach me jribarich98@gmail.com
 
 <!---
