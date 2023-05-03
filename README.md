@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JustinRibs
-- 👀 I’m interested in a job...
+- 👀 I’m looking for a new job opportunity
 - 🌱 I'm currently a Software Engineer!
 - 📫 How to reach me jribarich98@gmail.com
 
